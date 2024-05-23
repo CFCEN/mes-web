@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "chart",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_chart",
+  "deleted": false,
+  "gitSyncId": "664eaa993e5b8c6b969efa8b_f3a4bb67-b998-49e9-9556-0bc60b6d980f"
+}
